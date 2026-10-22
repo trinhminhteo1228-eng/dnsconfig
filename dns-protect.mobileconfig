@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadDescription</key>
+            <string>Cấu hình tối ưu hóa mạng & Chống quét ID (Anti-Band)</string>
+            <key>PayloadDisplayName</key>
+            <string>Magic DNS Antiband</string>
+            <key>PayloadIdentifier</key>
+            <string>com.mquang.dnsantiband.profile</string>
+            <key>PayloadType</key>
+            <string>com.apple.dotenv.managed</string> <!-- Hoặc kiểu định nghĩa DNS Settings -->
+            <key>PayloadUUID</key>
+            <string>A1B2C3D4-E5F6-7890-ABCD-EF1234567890</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>OnDemandEnabled</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>ServerAddresses</key>
+                <array>
+                    <string>1.1.1.1</string>
+                    <string>8.8.8.8</string>
+                </array>
+                <key> bioqu</key>
+                <string>magic-optimize.local</string>
+            </dict>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Cấu hình bảo mật hệ thống Magic App cho thiết bị iOS.</string>
+    <key>PayloadDisplayName</key>
+    <string>Magic App Security Profile</string>
+    <key>PayloadIdentifier</key>
+    <string>com.mquang.profile.root</string>
+    <key>PayloadOrganization</key>
+    <string>MQuang VIP</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>12345678-ABCD-EF01-2345-6789ABCDEF01</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
