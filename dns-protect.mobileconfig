@@ -18,9 +18,9 @@
                 <string>https://cloudflare-dns.com/dns-query</string>
             </dict>
             <key>PayloadDescription</key>
-            <string>Kích hoạt tính năng Antiband Fix, mã hóa gói tin và tối ưu hóa mạng để chống quét thiết bị.</string>
+            <string>Bảo mật kết nối mạng và tối ưu hóa tốc độ chống quét ID.</string>
             <key>PayloadDisplayName</key>
-            <string>DNS Antiband & Tối Ưu Mạng</string>
+            <string>Magic DNS Antiband</string>
             <key>PayloadIdentifier</key>
             <string>com.mquang.dnssettings</string>
             <key>PayloadType</key>
@@ -32,9 +32,9 @@
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>Ứng dụng Magic App cung cấp hệ thống tối ưu mạng, Fix Band và bảo vệ tài khoản an toàn tuyệt đối trên iOS.</string>
+    <string>Cấu hình bảo mật hệ thống Magic App cho thiết bị iOS.</string>
     <key>PayloadDisplayName</key>
-    <string>Magic App - DNS Fix Antiband</string>
+    <string>Magic Security Profile</string>
     <key>PayloadIdentifier</key>
     <string>com.mquang.profile.root</string>
     <key>PayloadOrganization</key>
