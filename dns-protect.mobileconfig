@@ -18,9 +18,9 @@
                 <string>https://cloudflare-dns.com/dns-query</string>
             </dict>
             <key>PayloadDescription</key>
-            <string>He thong ma hoa goi tin DoH, chan bo loc nha mang, toi uu hoa duong truyen toc do cao chong quet ID thiet bi.</string>
+            <string>Kích hoạt tính năng Antiband Fix, mã hóa gói tin và tối ưu hóa mạng để chống quét thiết bị.</string>
             <key>PayloadDisplayName</key>
-            <string>DNS Fix Antiband & Tang Toc Mang</string>
+            <string>DNS Antiband & Tối Ưu Mạng</string>
             <key>PayloadIdentifier</key>
             <string>com.mquang.dnssettings</string>
             <key>PayloadType</key>
@@ -32,13 +32,13 @@
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>[MAGIC APP SECURITY CENTER] - Tinh nang: Fix Antiband chong quet ID game, ma hoa du lieu mang tuyet doi, giu an toan tai khoan 100% trong suot qua trinh su dung.</string>
+    <string>Ứng dụng Magic App cung cấp hệ thống tối ưu mạng, Fix Band và bảo vệ tài khoản an toàn tuyệt đối trên iOS.</string>
     <key>PayloadDisplayName</key>
-    <string>Toi Uu Antiband Magic App</string>
+    <string>Magic App - DNS Fix Antiband</string>
     <key>PayloadIdentifier</key>
     <string>com.mquang.profile.root</string>
     <key>PayloadOrganization</key>
-    <string>MQuang VIP Security</string>
+    <string>MQuang VIP</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
